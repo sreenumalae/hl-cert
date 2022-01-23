@@ -1,6 +1,7 @@
 { 
   "@context": [{
-    "custom-cert-template-id": "http://schema.org/identifier",
-    "custom-cert-template-name": "http://schema.org/name"
+    "schema": "http://schema.org/",
+    "custom-cert-template-id": "schema:identifier",
+    "custom-cert-template-name": "schema:name"
   }]
 }
